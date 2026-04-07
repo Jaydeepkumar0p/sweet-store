@@ -64,15 +64,15 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-3 text-sm text-gray-400">
                 <FiMapPin size={15} className="text-pink-400 mt-0.5 shrink-0" />
-                <span>123 Sweet Lane, Connaught Place, New Delhi – 110001</span>
+                <span>123 punjab, Chandigarh university, Chandigarh,Mohali – 140301</span>
               </li>
               <li className="flex items-center gap-3 text-sm text-gray-400">
                 <FiPhone size={15} className="text-pink-400 shrink-0" />
-                <span>+91 98765 43210</span>
+                <span>+91 9142803194</span>
               </li>
               <li className="flex items-center gap-3 text-sm text-gray-400">
                 <FiMail size={15} className="text-pink-400 shrink-0" />
-                <span>hello@sweetshop.in</span>
+                <span>jaydeepkumar9310@gmail.com</span>
               </li>
             </ul>
           </div>
